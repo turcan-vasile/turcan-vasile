@@ -1,263 +1,182 @@
-# 👋 Ja Bular Ngagpa — Vasile Turcan
+# 🌱 Ja Bular / Turcan Vasile
 
-**DevOps Engineer • AI Engineer • Infrastructure Automation Specialist**
+**AI Systems Builder • WordPress/GitOps Engineer • Digital Sangha Architect**
 
-> *"Automation is not about replacing humans—it's about freeing them to solve harder problems."*
+Building regenerative digital systems at the intersection of **AI, coding, ecology, conscious practice, media, and community life**.
 
----
-
-## 🎯 What I Do
-
-I design, build, and operate **production-grade infrastructure** with a focus on:
-
-- **Zero-Touch Automation** — Eliminate manual tasks, reduce human error
-- **Security-First Architecture** — Defense-in-depth, least privilege, PKI automation
-- **AI-Enhanced Operations** — Intelligent diagnostics, predictive monitoring
-- **Self-Documenting Systems** — Code that explains itself, built-in help systems
-
-**5+ years** of hands-on experience building resilient, automation-first platforms for distributed teams.
+> Technology should reconnect humans with nature, practice, craft, and community — not separate them from life.
 
 ---
 
-## 🚀 Featured Projects
+## 🕉️ Current Direction
 
-### 🔐 [Enterprise VPN Automation](https://github.com/turcan-vasile/vpn-automation-showcase)
-**Production-ready VPN management system**
+I am evolving my work toward a living ecosystem around **Ra Planet**:
 
-- ⚡ **2-minute user provisioning** (was 30 minutes)
-- 🔄 Automated certificate lifecycle (generation → renewal → revocation)
-- 📊 Real-time monitoring with intelligent alerts
-- 🛡️ Zero unauthorized access incidents in 12 months
-
-**Stack:** OpenVPN, Bash, PKI (Easy-RSA), iptables, systemd
-
----
-
-### 🚀 [WordPress CI/CD Pipeline](https://github.com/turcan-vasile/wordpress-cicd-showcase)
-**Zero-downtime deployment automation**
-
-- ⚙️ **5-minute deployments** (was 30 minutes)
-- 🔄 Automated backups with instant rollback
-- 🐛 Intelligent error detection (PHP 8.2+, redirect loops, cache issues)
-- 📈 95% faster troubleshooting with diagnostic tools
-
-**Stack:** Bash, PHP, MySQL, LiteSpeed, rsync, Git
+- 🌐 **Ra-planet.com** — media, education, ecological culture, holistic living
+- 🤖 **AI-assisted development** — Codex, Copilot, Gemini, local AI, automation workflows
+- 🧱 **WordPress + GitOps infrastructure** — professional, reproducible, secure deployment systems
+- ♻️ **Ecology & regenerative living** — recycling, composting, renewable energy, village-scale systems
+- 🧘 **Practice-centered life** — Hatha Yoga, Kriya, meditation, Ngagpa orientation, Kashmir Shaivism inspiration
+- 🧼 **Natural craft production** — handmade soap, shampoo, herbal products, ecological household goods
+- 🏡 **Digital + grounded life** — online work balanced with garden, forest, repair, craft, and community
 
 ---
 
-### 🤖 AI-Powered Infrastructure Tools *(Coming Soon)*
-**Intelligent automation for DevOps workflows**
+## 🧭 Project Vision: SanghaOS
 
-- 🧠 AI-assisted diagnostics and root cause analysis
-- 🔍 Predictive failure detection
-- 📝 Auto-generated runbooks from incident patterns
+**SanghaOS** is the working name for a long-term project:  
+_a regenerative operating system for digital creators, AI builders, ecological communities, and practice-centered living._
 
-**Stack:** Python, OpenAI API, Bash, Prometheus
+It may grow into:
+
+- an open-source knowledge base
+- a digital sangha / collective workflow
+- AI-assisted ecological education tools
+- a WordPress + media platform architecture
+- a regenerative living documentation system
+- practical tools for local communities, gardens, recycling, composting, and craft production
+
+**Core formula:**
+
+```text
+AI + Coding + Ecology + Practice + Community + Craft + Media
+```
 
 ---
 
-## 🛠️ Technical Expertise
+## 🔧 What I Build
 
-### Infrastructure & Systems
+### AI & Automation
+- AI-assisted developer workflows
+- local AI routing and agent orchestration
+- automation-first DevOps systems
+- practical AI for research, content, diagnostics, and operations
+
+### WordPress & Web Infrastructure
+- WordPress engineering
+- WooCommerce / catalog / shop workflows
+- GitOps-style deployment
+- staging, CI/CD, backups, rollback, observability
+- clean developer workflows for Codex, Copilot, and human collaboration
+
+### Regenerative Digital Systems
+- ecological media platforms
+- digital education systems
+- local community tools
+- documentation-first project architecture
+- systems that help people work online without losing connection to body, land, and practice
+
+---
+
+## 🛠️ Technical Stack
+
 ```yaml
-Operating Systems:
-  - CentOS/RHEL: 7, 8, 9 (production hardening)
-  - Ubuntu: 20.04, 22.04, 24.04 (server & desktop)
-  - Debian: 10, 11, 12 (stable deployments)
+Development:
+  - WordPress / PHP / JavaScript / CSS
+  - Bash / Python / Makefiles
+  - Git / GitHub / GitOps workflows
+  - VS Code / Codex / Copilot / AI-assisted development
 
-Networking:
-  - VPN: OpenVPN, WireGuard (design & deployment)
-  - Firewall: iptables, firewalld, CSF
-  - Protocols: TCP/IP, DNS, NAT, routing, TLS/SSL
+Infrastructure:
+  - Linux servers
+  - Docker / K3s / Kubernetes direction
+  - CI/CD pipelines
+  - backups, staging, deployment automation
+  - monitoring and operational documentation
 
-Security:
-  - PKI infrastructure (EasyRSA, certificate automation)
-  - SSH hardening & key management
-  - Zero-trust architecture principles
-  - Compliance: SOC 2, ISO 27001 ready
-```
+AI Workflow:
+  - OpenAI / local models / Ollama / MLX direction
+  - AI router concepts
+  - multi-agent task delegation
+  - content, code, review, research, and planning pipelines
 
-### Automation & Scripting
-```yaml
-Languages:
-  - Bash: Advanced (2000+ LOC production systems)
-  - Zsh: Custom frameworks, completions
-  - PHP: WordPress integration, diagnostics
-  - Python: Monitoring, AI integration
-  - SQL: MySQL optimization, migrations
-
-DevOps Tools:
-  - Git: Advanced workflows, branching strategies
-  - Docker: Multi-stage builds, compose
-  - systemd: Service management, hardening
-  - rsync: Smart sync strategies
-  - cron/at: Job scheduling & automation
-```
-
-### Platforms & Technologies
-```yaml
-Web Servers:
-  - Apache: Virtual hosts, mod_rewrite
-  - Nginx: Reverse proxy, load balancing
-  - LiteSpeed: Cache optimization
-
-Databases:
-  - MySQL/MariaDB: Replication, backups
-  - PostgreSQL: Basic administration
-
-CMS & Frameworks:
-  - WordPress: CI/CD, plugin dev, performance
-  - WooCommerce: E-commerce deployments
+Creative & Media:
+  - Ra Planet content ecosystem
+  - social networks
+  - visual storytelling
+  - ecological and holistic education
 ```
 
 ---
 
-## 💡 Engineering Philosophy
+## 🌍 Ra Planet Ecosystem
 
-### Automation-First Mindset
-- **Every manual task is a future automation project**
-- Build systems that heal themselves
-- Prefer idempotent operations (safe to run multiple times)
+Ra Planet is not just a website.  
+It is becoming a **regenerative media + technology + ecology + practice ecosystem**.
 
-### Self-Documenting Code
-- Extensive inline comments explaining *why*, not just *what*
-- Built-in `--help` flags with real examples
-- Modular architecture (DRY principle)
+The long-term direction includes:
 
-### Security by Design
-- Defense-in-depth (multiple security layers)
-- Least privilege (minimal permissions)
-- Fail securely (safe defaults)
-- Audit everything (comprehensive logging)
-
-### AI as a Force Multiplier
-- Use AI for pattern recognition, not replacement
-- Automate the boring, focus on strategy
-- Build intelligent systems that learn from operations
+- ecological education
+- recycling and composting culture
+- renewable energy awareness
+- natural products and craft production
+- online learning and community tools
+- AI-assisted content and research
+- yoga, kriya, meditation, and embodied practice
+- local spaces for restoration, learning, and collaboration
 
 ---
 
-## 📊 Impact & Results
+## 🧘 Philosophy
 
-### VPN Infrastructure
-- **93% faster** user onboarding (30min → 2min)
-- **99.95% uptime** over 12 months
-- **Zero** unauthorized access incidents
-- **60%** reduction in management overhead
+I prefer systems that are:
 
-### WordPress CI/CD
-- **83% faster** deployments (30min → 5min)
-- **Zero-downtime** production releases
-- **95% faster** troubleshooting with automation
-- **<2 minute** rollback capability
+- **simple enough to maintain**
+- **deep enough to grow**
+- **documented enough to delegate**
+- **secure enough to trust**
+- **human enough to serve life**
 
-### General Operations
-- **2000+ lines** of production automation code
-- **50+ users** managed across distributed teams
-- **10,000+ hours** of secure VPN connectivity
-- **5+ production sites** with 99.9% uptime
+My direction is not only to build software, but to build **conditions for practice, ecological responsibility, meaningful work, and digital sovereignty**.
 
 ---
 
-## 🎓 Continuous Learning
+## 📌 Active Focus
 
-I believe in **learning by building**. Current focus areas:
-
-- 🧠 **AI/ML for DevOps** — Intelligent automation, anomaly detection
-- 🐳 **Kubernetes** — Container orchestration at scale
-- 🔐 **Zero-Trust Security** — Modern security architectures
-- 📊 **Observability** — Prometheus, Grafana, OpenTelemetry
-- ⚡ **Infrastructure as Code** — Terraform, Ansible
+- building and stabilizing the Ra Planet WordPress/GitOps stack
+- creating AI-first workflows for development and content
+- preparing the foundation for SanghaOS / Digital Sangha
+- improving local regenerative space: home, garden, workshop, production, and online work setup
+- learning and integrating AI, DevOps, ecology, yoga, Ayurveda, herbalism, and conscious systems design
 
 ---
 
-## 🔧 What I Can Build For You
+## 🤝 Collaboration Style
 
-✅ **Automate your manual DevOps workflows** (save hours/week)  
-✅ **Design secure VPN infrastructure** (remote teams, zero-trust)  
-✅ **Build CI/CD pipelines** (WordPress, Node.js, Python apps)  
-✅ **Create intelligent monitoring systems** (AI-enhanced diagnostics)  
-✅ **Troubleshoot production incidents** (firewall, SSL, performance)  
-✅ **Document everything** (knowledge transfer, runbooks)  
+I am interested in working with people who value:
 
----
+- honest craft
+- ecological awareness
+- practical spirituality
+- open learning
+- calm execution
+- documentation and shared knowledge
+- long-term community over short-term noise
 
-## 📬 Let's Connect
-
-- 🐙 **GitHub:** [turcan-vasile](https://github.com/turcan-vasile)
-- 💼 **LinkedIn:** [linkedin.com/in/turcan-vasile](https://linkedin.com/in/turcan-vasile)
-- 📧 **Email:** [turcan.vasile@gmail.com](mailto:turcan.vasile@gmail.com)
-- 🌐 **Portfolio:** [Coming Soon]
+Not just a team — a **digital sangha of builders, helpers, creators, and practitioners**.
 
 ---
 
-## 📂 Repository Structure
+## 📬 Connect
 
-```
-turcan-vasile/
-├── 🔐 vpn-automation-showcase/     # Enterprise VPN management
-├── 🚀 wordpress-cicd-showcase/     # WordPress deployment automation
-├── 🤖 ai-devops-tools/             # AI-powered infrastructure tools (WIP)
-├── 📚 knowledge-base/              # Technical guides & runbooks
-└── 🛠️ dotfiles/                    # Shell configs, aliases, completions
-```
-
----
-
-## 🌟 Fun Facts
-
-- 🏔️ **"Ja Bular Ngagpa"** — My engineering philosophy: *Build systems so elegant they seem magical*
-- 🎯 **Favorite debugging technique:** `set -x` and patience
-- 🔧 **Daily driver:** Zsh + tmux + Vim (terminal warrior)
-- 📖 **Reading list:** SRE books, security whitepapers, RFC documents
-- ☕ **Fuel:** Coffee, focused work sessions, late-night coding
-
----
-
-## 📜 Certifications & Skills *(Target 2025)*
-
-- [ ] **CKA** — Certified Kubernetes Administrator
-- [ ] **AWS Solutions Architect** — Cloud infrastructure
-- [ ] **OSCP** — Offensive Security Certified Professional
-- [x] **Self-Taught DevOps** — 5+ years production experience
-
----
-
-## 🤝 Contributing & Collaboration
-
-I believe in **open collaboration** and **knowledge sharing**:
-
-- 📖 All showcase projects are **documented** with real-world examples
-- 💬 Open to questions, discussions, and code reviews
-- 🚀 Available for **consulting** on infrastructure automation projects
-- 🎓 Interested in **mentoring** aspiring DevOps engineers
-
----
-
-## 📝 Latest Blog Posts *(Coming Soon)*
-
-- **Building a Zero-Trust VPN Infrastructure in 2025**
-- **AI-Enhanced DevOps: Beyond Hype to Real Value**
-- **WordPress at Scale: Lessons from 5+ Production Sites**
-- **The Art of Self-Documenting Infrastructure Code**
+- GitHub: [turcan-vasile](https://github.com/turcan-vasile)
+- Website: [Ra-planet.com](https://ra-planet.com)
+- Email: [turcan.vasile@gmail.com](mailto:turcan.vasile@gmail.com)
 
 ---
 
 <div align="center">
 
-### 💼 Open to Opportunities
+### 🌱 Building regenerative digital ecosystems
 
-**DevOps Engineer | Infrastructure Automation | AI-Enhanced Operations**
-
-*Building systems that are secure, automated, and intelligent.*
+**AI • Coding • Ecology • Practice • Community • Craft**
 
 [![GitHub followers](https://img.shields.io/github/followers/turcan-vasile?style=social)](https://github.com/turcan-vasile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/turcan-vasile)
 
 </div>
 
 ---
 
 <!---
-turcan-vasile/turcan-vasile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+turcan-vasile/turcan-vasile is a special repository because its README.md appears on the GitHub profile.
 --->
