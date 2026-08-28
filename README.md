@@ -28,6 +28,33 @@ My professional name is **Vasile Turcan**. **Ja Bular** is my personal and creat
 
 ---
 
+## 🧭 Current Learning Direction — AI Operations & Optimization
+
+I am developing toward work at the intersection of **operational excellence, AI-native product and systems architecture, and hands-on implementation**.
+
+I am especially interested in understanding how a business really works: observing real workflows, finding unnecessary complexity, bottlenecks, duplication, fragile handoffs, and wasted human attention — then redesigning the system before adding technology.
+
+My current working model is:
+
+```text
+OBSERVE → ELIMINATE → SIMPLIFY → STANDARDIZE → AUTOMATE → AI / AGENTS → MEASURE
+```
+
+The principle is simple: **do not automate chaos**. First improve the process; then use software, automation, and AI where they create measurable value.
+
+I am exploring this direction through real projects and operations, with a long-term interest in independent or embedded consulting for small and medium-sized businesses — combining process discovery, systems thinking, AI orchestration, implementation, and ongoing optimization.
+
+Possible role directions I am actively learning toward:
+
+- **AI Operations & Optimization Consultant**
+- **AI-native Product & Systems Architect**
+- **Operational Excellence + AI Transformation Consultant**
+- **Fractional / Embedded AI Transformation Lead**
+
+For me, the goal is not to sell AI itself. The goal is to help organizations become **simpler, more reliable, more efficient, and easier for people to operate**.
+
+---
+
 ## 🧭 What I Am Building
 
 ```text
@@ -115,6 +142,7 @@ AI supports the practitioner; it does not replace human responsibility, judgment
 ### Working Principles
 
 - discovery before implementation
+- simplify before automating
 - small, reversible changes
 - evidence before assumptions
 - automation with human control
@@ -161,6 +189,8 @@ I am especially interested in projects that connect **engineering, ecological re
 
 ## 🌱 Always Learning
 
+- AI operations and business-process optimization
+- operational excellence and process discovery
 - AI systems architecture
 - agentic engineering workflows
 - cloud-native infrastructure
