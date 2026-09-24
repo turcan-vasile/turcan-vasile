@@ -1,229 +1,65 @@
 <div align="center">
 
-# 👋 Hi, I'm Vasile Turcan
+# Vasile Turcan · Ja Bular
 
-### 🌿 also known as **Ja Bular**
+**AI Operations & Systems Architect**
 
-**AI Systems Builder • DevOps & GitOps Engineer • Human-Centered Technology Explorer**
+*I make small businesses simpler first, then automate what's left, with AI agents working under real engineering controls.*
 
-*Building reliable systems that help people create, heal, learn, and grow.*
-
-<br>
-
-`AI Engineering` • `Linux` • `GitOps` • `Automation` • `WordPress` • `Digital Wellbeing`
+`AI agent orchestration` · `GitOps / Kubernetes` · `WordPress & WooCommerce` · `Process simplification`
 
 </div>
 
 ---
 
-## 🌱 About Me
+## What I do
 
-I am a systems builder working at the intersection of **software engineering, artificial intelligence, infrastructure, ecology, and holistic practice**.
-
-I enjoy turning complex ideas into calm, maintainable systems — from Kubernetes and GitOps workflows to AI-assisted tools and digital platforms for natural products and human wellbeing.
-
-My professional name is **Vasile Turcan**. **Ja Bular** is my personal and creative identity: a reminder to combine engineering precision with awareness, balance, service, and respect for life.
-
-> Technology should reduce chaos, protect human attention, and create more space for meaningful work.
-
----
-
-## 🧭 Current Learning Direction — AI Operations & Optimization
-
-I am developing toward work at the intersection of **operational excellence, AI-native product and systems architecture, and hands-on implementation**.
-
-I am especially interested in understanding how a business really works: observing real workflows, finding unnecessary complexity, bottlenecks, duplication, fragile handoffs, and wasted human attention — then redesigning the system before adding technology.
-
-My current working model is:
+I look at how a business actually runs, remove the work that shouldn't exist, and only then build automation and AI around what remains.
 
 ```text
 OBSERVE → ELIMINATE → SIMPLIFY → STANDARDIZE → AUTOMATE → AI / AGENTS → MEASURE
 ```
 
-The principle is simple: **do not automate chaos**. First improve the process; then use software, automation, and AI where they create measurable value.
-
-I am exploring this direction through real projects and operations, with a long-term interest in independent or embedded consulting for small and medium-sized businesses — combining process discovery, systems thinking, AI orchestration, implementation, and ongoing optimization.
-
-Possible role directions I am actively learning toward:
-
-- **AI Operations & Optimization Consultant**
-- **AI-native Product & Systems Architect**
-- **Operational Excellence + AI Transformation Consultant**
-- **Fractional / Embedded AI Transformation Lead**
-
-For me, the goal is not to sell AI itself. The goal is to help organizations become **simpler, more reliable, more efficient, and easier for people to operate**.
+**Don't automate chaos.** Fix the process first, then use software and AI where they save real time or reduce real risk.
 
 ---
 
-## 🧭 What I Am Building
+## Proof of work: RA Planet
 
-```text
-                         HUMAN-CENTERED AI
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-        🌿 RA Planet       🤖 AI Router      🩺 Healer Helper OS
-             │                  │                  │
-      Natural commerce     AI orchestration    Practitioner support
-      WordPress + GitOps   Local + cloud AI    Knowledge + workflows
-      Ecology + craft      Routing + budgets   Human-guided assistance
-```
+[ra-planet.com](https://ra-planet.com) is a handmade natural-cosmetics shop in Moldova (WordPress + WooCommerce). I run its engineering as a **multi-agent AI team with human governance**:
 
-These projects are different expressions of one direction:
-
-**build dependable technology that supports real people, real work, and a more grounded way of living.**
+- **Parallel AI lanes:** several AI developer agents, an independent AI reviewer and a research assistant, coordinated through GitHub issues with a simple report/decision protocol.
+- **Humans own the decisions:** agents propose and implement; every change is independently reviewed and merged by a person.
+- **Safe-by-default changes:** content and catalog updates go through a governed pipeline that is tested on staging first and stops if anything doesn't match what was approved.
+- **Tests that prove themselves:** every fix is shown to fail before the change and pass after it, with 1,000+ automated checks in CI.
+- **Compliance in the workflow:** cosmetics labelling and claims rules are checked in the data, not left to memory.
+- **Modern delivery:** containers, GitOps, separate staging and production, backups and rollback.
 
 ---
 
-## 🌿 RA Planet
+## In development
 
-A natural-products and ecological living platform built with modern engineering practices.
-
-Current work includes:
-
-- WordPress and WooCommerce engineering
-- product experience, catalog structure, SEO, and accessibility
-- Docker, Kubernetes, K3s, ArgoCD, and GitOps delivery
-- staging, backups, observability, release controls, and rollback safety
-- automation for content, operations, and quality assurance
-- natural cosmetics, herbal products, garden culture, and responsible craft
+- **AI Router:** vendor-neutral routing across local (Ollama) and cloud models, with budgets, health scoring and traceable decisions.
+- **Healer Helper OS:** an AI-assisted workspace for holistic practitioners covering intake, red flags, session records and follow-up. The AI supports the practitioner's judgment and never replaces it.
 
 ---
 
-## 🤖 AI Router
+## Stack
 
-A private, vendor-neutral orchestration layer for practical AI workflows.
+**Infra:** `Linux` `Docker` `Kubernetes / K3s` `ArgoCD` `GitHub Actions` `Terraform` `Ansible`
 
-Its direction includes:
+**Code:** `Python` `PHP` `Bash` `Make` `WordPress` `WooCommerce`
 
-- multi-provider routing
-- local-first execution with Ollama and open models
-- cloud-provider fallback
-- budget and readiness controls
-- provider health, latency, and success scoring
-- traceable routing decisions
-- AI-assisted engineering workflows
-
-The goal is not to use AI everywhere. It is to use the **right model, for the right task, with clear limits and evidence**.
+**AI:** `Claude Code` `Codex` `ChatGPT` `Gemini` `Ollama` · multi-agent workflows, review gates, prompt & protocol design
 
 ---
 
-## 🩺 Healer Helper OS
+## How I work
 
-A private AI-assisted workspace for holistic practitioners.
-
-It is designed to help organize:
-
-- client intake and structured questionnaires
-- red flags and practitioner review
-- holistic knowledge modules
-- session records and follow-up
-- rule traces and explainable assistance
-- learning and reusable practitioner knowledge
-
-AI supports the practitioner; it does not replace human responsibility, judgment, or care.
+Discovery before building · small, reversible changes · evidence over assumptions · humans own the decisions · security and rollback by design.
 
 ---
 
-## ⚙️ Engineering Focus
+📫 [turcan.vasile@gmail.com](mailto:turcan.vasile@gmail.com) · 🌿 [ra-planet.com](https://ra-planet.com)
 
-### Infrastructure & Operations
-
-`Linux` `Docker` `Kubernetes` `K3s` `ArgoCD` `GitHub Actions` `Ansible` `Terraform`
-
-### Development
-
-`Python` `PHP` `Bash` `WordPress` `WooCommerce` `Git` `Make`
-
-### AI & Automation
-
-`OpenAI` `Codex` `Claude` `Gemini` `Ollama` `Qwen` `Agentic Workflows`
-
-### Working Principles
-
-- discovery before implementation
-- simplify before automating
-- small, reversible changes
-- evidence before assumptions
-- automation with human control
-- documentation as part of the system
-- security, observability, and rollback by design
-- long-term maintainability over short-term noise
-
----
-
-## 🌞 Glimmer Lifestyle
-
-I believe good engineering and a good life do not have to oppose each other.
-
-For me, a meaningful life includes:
-
-🌿 contact with nature  
-🧘 yoga, meditation, and conscious practice  
-🌱 growing plants and creating natural products  
-🏡 building a stable environment for family and community  
-📚 continuous learning  
-💻 using technology as a tool — not as the center of life  
-✨ noticing small moments of beauty, clarity, gratitude, and connection
-
-This is my version of a **glimmer lifestyle**: building ambitious systems without losing contact with the body, the land, the people around me, and the present moment.
-
----
-
-## 🧩 How I Work
-
-I value:
-
-- calm execution
-- honest craftsmanship
-- clear task boundaries
-- reproducible workflows
-- thoughtful use of AI
-- open learning and shared knowledge
-- technology that serves people
-- progress that can be verified
-
-I am especially interested in projects that connect **engineering, ecological responsibility, education, natural wellbeing, and digital sovereignty**.
-
----
-
-## 🌱 Always Learning
-
-- AI operations and business-process optimization
-- operational excellence and process discovery
-- AI systems architecture
-- agentic engineering workflows
-- cloud-native infrastructure
-- software reliability and security
-- knowledge management
-- human-centered product design
-- ecology and regenerative living
-- yoga, Ayurveda, herbalism, and holistic practice
-
----
-
-## 📬 Connect
-
-- GitHub: [turcan-vasile](https://github.com/turcan-vasile)
-- Website: [ra-planet.com](https://ra-planet.com)
-- Email: [turcan.vasile@gmail.com](mailto:turcan.vasile@gmail.com)
-
----
-
-<div align="center">
-
-### 🌿 Build with purpose. Learn continuously. Help life grow.
-
-**May your code be clean, your systems reliable, and your life meaningful.**
-
-— **Ja Bular**
-
-<br>
-
-[![GitHub followers](https://img.shields.io/github/followers/turcan-vasile?style=social)](https://github.com/turcan-vasile)
-
-</div>
-
-<!--
-turcan-vasile/turcan-vasile is a special repository because its README.md appears on the GitHub profile.
--->
+<!-- turcan-vasile/turcan-vasile: this README appears on the GitHub profile. -->
